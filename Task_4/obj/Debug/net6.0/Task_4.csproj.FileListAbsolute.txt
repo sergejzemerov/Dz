@@ -1,0 +1,15 @@
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\refint\Task_4.dll
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\VisualStudioCode\C#\Seminar 1\Dz\Task_4\obj\Debug\net6.0\ref\Task_4.dll
